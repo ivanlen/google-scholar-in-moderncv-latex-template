@@ -10,6 +10,7 @@ Is quite easy to add the item google-scholar to the social section of the Modern
  \collectionadd[scholar]{socials}{\href{https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl}{ John Doe}}
  ```
  and modify the link to redirect to your google scholar profile.
+
 3. Compile
 
 
