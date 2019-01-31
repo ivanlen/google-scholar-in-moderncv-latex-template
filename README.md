@@ -16,5 +16,5 @@ Is quite easy to add the item google-scholar to the social section of the Modern
  For the casual style the output looks something like this:
 
 
-<img src="social.png" alt="social example" width="500"/>
+<img src="social.png" alt="social example" width="600"/>
 
